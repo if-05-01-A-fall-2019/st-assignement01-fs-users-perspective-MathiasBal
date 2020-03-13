@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/assignment01.dir/main.c.o CMakeFiles/assignment01.dir/filat.c.o CMakeFiles/assignment01.dir/lsln.c.o  -o assignment01 
